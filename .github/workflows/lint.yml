@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      PYTHON: '3.8.8'
+      PYTHON: '3.8'
 
     steps:
     - name: Checkout code
